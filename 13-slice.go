@@ -9,7 +9,7 @@ func main(){
 	//pointer = penunjuk data pertama di array pada slice
 	//length  = panjang dari slice
 	//capacity = kapasitas dari slice, dimana length tidak boleh lebih dari capacity
-	//capacity berjumlah awal dari pointer ke paling akhir index garray tersebut
+	//capacity berjumlah awal dari pointer ke paling akhir index array tersebut
 
 	//cara membuat slice
 	//array[low:hight] //membuat slice dari array dimulai index low sampai index sebelum hight

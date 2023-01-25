@@ -31,7 +31,5 @@ func main(){
 
 	default:
 		fmt.Println("Unknown", value)
-	}
-	
-	
+	}	
 }
